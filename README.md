@@ -23,8 +23,6 @@ User priority settings
 ![Japan garden city-9](https://github.com/aukgit/Old-Work-Images/blob/master/Software%20Design/Japan%20Garden%20City%20Images%20%5BYear%202008%20Jun%5D/9%20user%20create%20and%20Priority%20settings.jpg?raw=true)
 Internet Clients Entry form
 ![Japan garden city-10](https://github.com/aukgit/Old-Work-Images/blob/master/Software%20Design/Japan%20Garden%20City%20Images%20%5BYear%202008%20Jun%5D/10.jpg)
-
-Summary view (with fake data)
 ![Japan garden city-11](https://github.com/aukgit/Old-Work-Images/blob/master/Software%20Design/Japan%20Garden%20City%20Images%20%5BYear%202008%20Jun%5D/11.jpg)
-Flat Entry
+Summary view (with fake data)
 ![Japan garden city-12](https://github.com/aukgit/Old-Work-Images/blob/master/Software%20Design/Japan%20Garden%20City%20Images%20%5BYear%202008%20Jun%5D/12.jpg)
