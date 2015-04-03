@@ -26,3 +26,7 @@ Internet Clients Entry form
 ![Japan garden city-11](https://github.com/aukgit/Old-Work-Images/blob/master/Software%20Design/Japan%20Garden%20City%20Images%20%5BYear%202008%20Jun%5D/11.jpg)
 Summary view (with fake data)
 ![Japan garden city-12](https://github.com/aukgit/Old-Work-Images/blob/master/Software%20Design/Japan%20Garden%20City%20Images%20%5BYear%202008%20Jun%5D/12.jpg)
+
+## JGC Reports
+[Reports Samples with Fake data](https://github.com/aukgit/Old-Work-Images/tree/master/Software%20Design/Japan%20Garden%20City%20Reports%5BYear%202008%20Jun%5D "Reports Samples with Fake data")
+
